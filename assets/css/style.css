@@ -1,0 +1,54 @@
+body, .fuente {
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo {
+    width: 5.375em;
+    height: 1.563em;
+}
+
+.logo2 {
+    width: 5.125em;
+    height: 1.5em;
+}
+
+.fondo-verde {
+    background-color: #28A745;
+}
+
+.gris {
+    color: #707070;
+}
+
+.icon {
+    color: #707070;
+    vertical-align: top;
+}
+  
+.verde {
+    color: #28A745;
+}
+
+.negro {
+    color: #212529;
+}
+
+/*Tamaños convertidos de pixeles a em*/
+
+.mini {
+    font-size: 0.813em;
+}
+
+.grande {
+    font-size: 1.5em;
+}
+
+.mediano {
+    font-size: 1.313em;
+}
+
+.boton {
+    background-color: #F8F9FA;
+}
+
+ 
